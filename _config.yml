@@ -1,2 +1,4 @@
 name: Rohan Mehta
 markdown: kramdown
+plugins:
+  - jekyll-sitemap
