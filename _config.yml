@@ -2,3 +2,4 @@ name: Rohan Mehta
 markdown: kramdown
 plugins:
   - jekyll-sitemap
+google_analytics: G-816PVR8H9T
